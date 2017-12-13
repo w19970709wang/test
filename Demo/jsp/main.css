@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	width: 100%;
+	height: 50px;
+	border: 2px solid yellow;
+}
+.hrf{
+	float: right;
+}
+.container{
+	width: 100%;
+	height: 1050px;
+	border: 2px solid blue;
+}
+.left_con{
+	border: 2px solid blue;
+	height: 1050px;
+	float: left;
+	width: 28%;
+}
+.center_con{
+	border: 2px solid blue;
+	height: 1050px;
+	float: left;
+	width: 50%;
+}
+.right_con{
+	border: 2px solid blue;
+	height: 1050px;
+	float: left;
+	width: 20%;
+}
+.footer{
+	border: 2px solid red;
+	height: 150px;
+	width: 100%;
+}
+.form1{
+	width: 200px;
+	height: 300px;
+	border: 2px solid red;
+	margin:0 auto;
+}
+.form2{
+	width: 200px;
+	height: 300px;
+	border: 2px solid red;
+	margin:0 auto;
+}
+.form3{
+	width: 200px;
+	height: 300px;
+	border: 2px solid red;
+	margin:0 auto;
+}
